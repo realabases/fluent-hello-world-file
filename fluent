@@ -1,0 +1,6 @@
+#include <stdio.h>
+#define print(hello) int main() { printf(hello); }
+
+
+
+print("Hello World")
